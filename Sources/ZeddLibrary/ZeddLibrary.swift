@@ -4,11 +4,11 @@ struct ZeddLibrary {
 }
 
 open class OpenZedd {
-    open init() {}
+    public init() {}
 }
 
 public class PublicZedd {
-    open init() {}
+    public init() {}
 }
 
 class InternalZedd {
